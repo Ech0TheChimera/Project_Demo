@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Demo</string>
+    <string name="service_text">Service</string>
+    <string name="kitchen_text">Kitchen</string>
+    <string name="prep_text">Prep</string>
+    <string name="select_area">Select the area responsible for the food item.</string>
+</resources>
